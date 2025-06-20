@@ -18,7 +18,7 @@ let shopItemsData = [
     name: "Marshall Major iv",
     price: 149.99,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-    img: "images/Marshall_Major-iv.jpeg",
+    img: "images/Marshall_Major-IV.jpeg",
   },
   {
     id: 4,
